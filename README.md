@@ -1,8 +1,8 @@
 ### Hi there 👋
 ## Welcome to Felipe Sanz's GitHub 👨
-Here you can find the code for my University Projects as well as my Personal Projects.
-🌱 I'm currently studying the applications of Data Science and Machine Learning (Master's in Business Analytics & Big Data)
-⚡ Fun facts: Avid singer, drummer and self taught ukulele player | Amateur music producer | Recent Data Science nerd
+Here you can find the code for my University Projects as well as my Personal Projects.\
+🌱 I'm currently studying the applications of Data Science and Machine Learning (Master's in Business Analytics & Big Data)\
+⚡ Fun facts: Avid singer, drummer and self taught ukulele player | Amateur music producer | Recent Data Science nerd\
 ![image]({https://www.linkedin.com/in/felipesanze/})
 ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
